@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZaTeodorChatgptVezba", "ZaTeodorChatgptVezba\ZaTeodorChatgptVezba.vcxproj", "{EC010593-E2D0-4442-933D-79C81E5B9E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC010593-E2D0-4442-933D-79C81E5B9E47}.Debug|x64.ActiveCfg = Debug|x64
+		{EC010593-E2D0-4442-933D-79C81E5B9E47}.Debug|x64.Build.0 = Debug|x64
+		{EC010593-E2D0-4442-933D-79C81E5B9E47}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC010593-E2D0-4442-933D-79C81E5B9E47}.Debug|x86.Build.0 = Debug|Win32
+		{EC010593-E2D0-4442-933D-79C81E5B9E47}.Release|x64.ActiveCfg = Release|x64
+		{EC010593-E2D0-4442-933D-79C81E5B9E47}.Release|x64.Build.0 = Release|x64
+		{EC010593-E2D0-4442-933D-79C81E5B9E47}.Release|x86.ActiveCfg = Release|Win32
+		{EC010593-E2D0-4442-933D-79C81E5B9E47}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69D3B682-367B-4C23-BA88-4D18547D2ADF}
+	EndGlobalSection
+EndGlobal
