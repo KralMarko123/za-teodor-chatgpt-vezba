@@ -1,6 +1,0 @@
-[Tue May  6 11:36:16 2025]	User asked question: Marko
-[Tue May  6 11:36:17 2025]	User asked question: Teodor
-[Tue May  6 11:38:45 2025]	User started questionnaire
-[Tue May  6 11:38:47 2025]	User asked question: Marko
-[Tue May  6 11:38:51 2025]	User asked question: Teodor
-[Tue May  6 11:38:52 2025]	User exited questionnaire
